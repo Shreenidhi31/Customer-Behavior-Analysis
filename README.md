@@ -4,7 +4,7 @@ This project analyzes customer shopping behavior using Python, PostgreSQL, SQL, 
 
 ## Tools Used
 - Python
-- PostgreSQL / SQL
+- MySQL/SQL
 - Power BI
 - Pandas
 
